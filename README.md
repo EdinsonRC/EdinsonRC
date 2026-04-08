@@ -3,7 +3,7 @@
 ### 🐍 Python Developer en formación | Meta: Backend Developer julio 2026
 
 Soy un desarrollador autodidacta de Lima, Perú.
-Aprendo con constancia: 1-2 horas al día, todos los días.
+Aprendo con constancia, todos los días.
 
 ---
 
