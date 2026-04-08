@@ -1,6 +1,6 @@
 # 👋 Hola, soy Edinson Rosadio
 
-### 🐍 Python Developer en formación | Meta: Backend Developer julio 2026
+### 🐍 Python Developer en formación | Meta: Backend Developer 2026
 
 Soy un desarrollador autodidacta de Lima, Perú.
 Aprendo con constancia, todos los días.
