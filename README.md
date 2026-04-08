@@ -37,11 +37,14 @@ Aprendo con constancia, todos los días.
 
 ## 📊 Mis estadísticas
 
-![Edinson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdinsonRC&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EdinsonRC&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EdinsonRC&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdinsonRC&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=EdinsonRC&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdinsonRC&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
