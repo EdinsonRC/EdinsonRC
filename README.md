@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hola, soy Edinson Rosadio
 
-<!--
-**EdinsonRC/EdinsonRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Python Developer en formación | Meta: Backend Developer julio 2026
 
-Here are some ideas to get you started:
+Soy un desarrollador autodidacta de Lima, Perú.
+Aprendo con constancia: 1-2 horas al día, todos los días.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Stack actual
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## 🔜 Próximamente
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📚 Ruta de aprendizaje
+
+| Estado | Tema |
+|--------|------|
+| ✅ | Variables, condicionales y bucles |
+| ✅ | Ejercicios de lógica (FizzBuzz, cajero, adivina el número) |
+| 🔄 | Funciones y programación orientada a objetos |
+| ⬜ | SQL y bases de datos |
+| ⬜ | FastAPI — construcción de APIs REST |
+| ⬜ | Primer proyecto real desplegado en producción |
+
+---
+
+## 📊 Mis estadísticas
+
+![Edinson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdinsonRC&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdinsonRC&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=EdinsonRC&theme=tokyonight&hide_border=true)
+
+---
+
+## 📁 Proyectos
+
+| Proyecto | Descripción | Estado |
+|----------|-------------|--------|
+| [python-ejercicios](https://github.com/EdinsonRC/python-ejercicios) | Ejercicios de práctica: lógica, bucles, condicionales | ✅ Activo |
+| portafolio-api | API REST con FastAPI y PostgreSQL | 🔜 Julio 2026 |
+
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/EdinsonRC)
+
+---
+
+
+
+
+  "Constancia sobre velocidad. Un commit al día."
